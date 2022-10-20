@@ -1,0 +1,92 @@
+{
+    "groups": [
+        {
+            "groupId": "120363040860210243@g.us",
+            "total": 2416,
+            "users": {
+                "559481417512@s.whatsapp.net": 895,
+                "79613129309@s.whatsapp.net": 270,
+                "557499510904@s.whatsapp.net": 794,
+                "559484172038@s.whatsapp.net": 10,
+                "13053404854@s.whatsapp.net": 353,
+                "556593265574@s.whatsapp.net": 94
+            }
+        },
+        {
+            "groupId": "553897291610-1626293456@g.us",
+            "total": 4,
+            "users": {
+                "559481417512@s.whatsapp.net": 4
+            }
+        },
+        {
+            "groupId": "120363042934628286@g.us",
+            "total": 121,
+            "users": {
+                "5511951346335@s.whatsapp.net": 121
+            }
+        }
+    ],
+    "users": [
+        {
+            "id": "559481417512@s.whatsapp.net",
+            "total": 66,
+            "timestamp": 1663337196398
+        },
+        {
+            "id": "556593265574@s.whatsapp.net",
+            "total": 1,
+            "timestamp": 1663339550821
+        },
+        {
+            "id": "558881167364@s.whatsapp.net",
+            "total": 6,
+            "timestamp": 1663373273081
+        },
+        {
+            "id": "559892256579@s.whatsapp.net",
+            "total": 8,
+            "timestamp": 1663376956398
+        },
+        {
+            "id": "558694891070@s.whatsapp.net",
+            "total": 2,
+            "timestamp": 1663428714579
+        },
+        {
+            "id": "558994036102@s.whatsapp.net",
+            "total": 12,
+            "timestamp": 1663452964670
+        },
+        {
+            "id": "557599291201@s.whatsapp.net",
+            "total": 23,
+            "timestamp": 1663465517520
+        },
+        {
+            "id": "5521999246469@s.whatsapp.net",
+            "total": 14,
+            "timestamp": 1663465616809
+        },
+        {
+            "id": "558191694245@s.whatsapp.net",
+            "total": 4,
+            "timestamp": 1663529583311
+        },
+        {
+            "id": "556798306159@s.whatsapp.net",
+            "total": 1,
+            "timestamp": 1663543883395
+        },
+        {
+            "id": "5511951346335@s.whatsapp.net",
+            "total": 394,
+            "timestamp": 1665622414428
+        },
+        {
+            "id": "5511950502243@s.whatsapp.net",
+            "total": 1,
+            "timestamp": 1665814394616
+        }
+    ]
+}

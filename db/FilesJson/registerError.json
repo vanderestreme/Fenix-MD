@@ -1,0 +1,86 @@
+[
+  {
+    "total": 7,
+    "userId": "559481417512@s.whatsapp.net",
+    "command": "tiktok",
+    "acquiredError": [
+      "FetchError: invalid json response body at https://ayanami-apis.herokuapp.com/api/download/tiktod/?url=https://vm.tiktok.com/ZMNw8cCas/&apikey=apikeyFree30days reason: Unexpected token < in JSON at position 0",
+      "FetchError: invalid json response body at https://ayanami-apis.herokuapp.com/api/download/tiktod/?url=https://vm.tiktok.com/ZMNKeboN6/&apikey=apikeyFree30days reason: Unexpected token < in JSON at position 0",
+      "FetchError: invalid json response body at https://ayanami-apis.herokuapp.com/api/download/tiktod/?url=https://vm.tiktok.com/ZMNKrDyjp/&apikey=apikeyFree30days reason: Unexpected token < in JSON at position 0"
+    ]
+  },
+  {
+    "total": 2,
+    "userId": "557499510904@s.whatsapp.net",
+    "command": "play",
+    "acquiredError": [
+      "connect ETIMEDOUT 2800:3f0:4001:82a::200e:443\n{\n  \"protocol\": \"https:\",\n  \"host\": \"www.youtube.com\",\n  \"hostname\": \"www.youtube.com\",\n  \"port\": null,\n  \"path\": \"/results?search_query=eu%20sou%20157&hl=en&gl=US\",\n  \"method\": \"GET\",\n  \"headers\": {\n    \"content-type\": \"text/plain\",\n    \"user-agent\": \"Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html) (yt-search; https://www.npmjs.com/package/yt-search)\",\n    \"accept\": \"text/html\",\n    \"accept-encoding\": \"gzip\",\n    \"accept-language\": \"en-US\"\n  }\n}\n{\n  \"protocol\": \"https:\",\n  \"host\": \"www.youtube.com\",\n  \"hostname\": \"www.youtube.com\",\n  \"port\": null,\n  \"path\": \"/results?search_query=eu%20sou%20157&hl=en&gl=US\",\n  \"method\": \"GET\",\n  \"headers\": {\n    \"content-type\": \"text/plain\",\n    \"user-agent\": \"Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html) (yt-search; https://www.npmjs.com/package/yt-search)\",\n    \"accept\": \"text/html\",\n    \"accept-encoding\": \"gzip\",\n    \"accept-language\": \"en-US\"\n  }\n}",
+      "connect ETIMEDOUT 2800:3f0:4001:82a::200e:443\n{\n  \"protocol\": \"https:\",\n  \"host\": \"www.youtube.com\",\n  \"hostname\": \"www.youtube.com\",\n  \"port\": null,\n  \"path\": \"/results?search_query=assombra%20matrix%203&hl=en&gl=US\",\n  \"method\": \"GET\",\n  \"headers\": {\n    \"content-type\": \"text/plain\",\n    \"user-agent\": \"Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html) (yt-search; https://www.npmjs.com/package/yt-search)\",\n    \"accept\": \"text/html\",\n    \"accept-encoding\": \"gzip\",\n    \"accept-language\": \"en-US\"\n  }\n}\n{\n  \"protocol\": \"https:\",\n  \"host\": \"www.youtube.com\",\n  \"hostname\": \"www.youtube.com\",\n  \"port\": null,\n  \"path\": \"/results?search_query=assombra%20matrix%203&hl=en&gl=US\",\n  \"method\": \"GET\",\n  \"headers\": {\n    \"content-type\": \"text/plain\",\n    \"user-agent\": \"Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html) (yt-search; https://www.npmjs.com/package/yt-search)\",\n    \"accept\": \"text/html\",\n    \"accept-encoding\": \"gzip\",\n    \"accept-language\": \"en-US\"\n  }\n}"
+    ]
+  },
+  {
+    "total": 1,
+    "userId": "559481417512@s.whatsapp.net",
+    "command": "tatsumi",
+    "acquiredError": [
+      "AxiosError: Request failed with status code 403"
+    ]
+  },
+  {
+    "total": 5,
+    "userId": "559481417512@s.whatsapp.net",
+    "command": "bjob",
+    "acquiredError": [
+      "AxiosError: Request failed with status code 404"
+    ]
+  },
+  {
+    "total": 2,
+    "userId": "559481417512@s.whatsapp.net",
+    "command": "xnxxplay",
+    "acquiredError": [
+      "FetchError: invalid json response body at https://ayanami-apis.herokuapp.com/api/download/xnxx/?link=https://www.xnxx.com/search/0-pussy&apikey=apikeyFree30days reason: Unexpected token < in JSON at position 0"
+    ]
+  },
+  {
+    "total": 1,
+    "userId": "559481417512@s.whatsapp.net",
+    "command": "image",
+    "acquiredError": [
+      "TypeError [ERR_INVALID_ARG_TYPE]: The \"url\" argument must be of type string. Received undefined"
+    ]
+  },
+  {
+    "total": 1,
+    "userId": "559591283703@s.whatsapp.net",
+    "command": "nick",
+    "acquiredError": [
+      "ReferenceError: valeu is not defined"
+    ]
+  },
+  {
+    "total": 5,
+    "userId": "559591283703@s.whatsapp.net",
+    "command": "attp1",
+    "acquiredError": [
+      "AxiosError: Request failed with status code 522"
+    ]
+  },
+  {
+    "total": 3,
+    "userId": "559591283703@s.whatsapp.net",
+    "command": "googleimage",
+    "acquiredError": [
+      "AxiosError: Request failed with status code 403",
+      "TypeError [ERR_INVALID_ARG_TYPE]: The \"url\" argument must be of type string. Received undefined"
+    ]
+  },
+  {
+    "total": 4,
+    "userId": "5511951346335@s.whatsapp.net",
+    "command": "playvid",
+    "acquiredError": [
+      "FetchError: invalid json response body at https://www.y2mate.com/mates/en154/analyze/ajax reason: Unexpected token < in JSON at position 0"
+    ]
+  }
+]
